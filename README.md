@@ -15,6 +15,7 @@ This repository hosts a collection of Python scripts designed for processing and
 1. Clone the repository:
 
 git clone https://github.com/your-username/MedicalSignalProcessing.git
+
 2. Navigate to the project directory:
 
 cd MedicalSignalProcessing
