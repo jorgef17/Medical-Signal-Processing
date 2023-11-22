@@ -26,6 +26,7 @@ pip install -r requirements.txt
 
 ## Usage
 To run a script, navigate to the directory containing the script and run:
+
 python script_name.py
 ## Contributing
 Contributions are welcome! Feel free to fork the repository, make your changes, and submit a pull request.
