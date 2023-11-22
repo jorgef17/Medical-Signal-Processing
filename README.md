@@ -1,7 +1,5 @@
 # Medical Signal Processing
 
-# ECG Signal Analysis for Heart Rate Monitoring
-
 
 ## Overview
 This repository hosts a collection of Python scripts designed for processing and analyzing ECG (Electrocardiogram) signals to extract medical insights, such as heart rate and potential anomalies.
