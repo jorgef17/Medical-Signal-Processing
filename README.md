@@ -20,7 +20,7 @@ git clone https://github.com/your-username/MedicalSignalProcessing.git
 
 cd MedicalSignalProcessing
 
-3.Install the required dependencies:
+3. Install the required dependencies:
 
 pip install -r requirements.txt
 
